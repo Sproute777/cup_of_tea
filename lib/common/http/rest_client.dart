@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 import 'package:injectable/injectable.dart';
 import 'package:retrofit/retrofit.dart';
 
-import '../../features/home/data/models/post.dart';
+import '../../features/home/data/models/post_dto/post.dart';
 
 part 'rest_client.g.dart';
 
